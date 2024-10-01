@@ -42,7 +42,14 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 #EXTINF:-1 ,Espn 3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
+#EXTINF:-1 ,Fox Sports
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
+#EXTINF:-1 ,Fox Sports 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1 ,Fox Sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 
 
