@@ -18,6 +18,9 @@ https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 #EXTINF:-1 , AMERICA
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
+#EXTINF:-1 , TyC Sports
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
+
 
 #EXTINF:-1 , TNT Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
