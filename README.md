@@ -61,6 +61,105 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 ,Fox Sports 3
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
+#EXTINF:-1 ,TLC
+https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+
+#EXTINF:-1 ,Discovery
+https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+
+#EXTINF:-1 ,Star chanell
+https://delivery.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
+
+#EXTINF:-1 ,FX
+https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 ,Cinecanal
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+
+#EXTINF:-1 ,Comedy
+https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+
+#EXTINF:-1 ,A&E
+https://delivery.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+
+#EXTINF:-1 ,Nick Jr
+https://delivery.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+
+#EXTINF:-1 ,Disney Ch
+https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+
+#EXTINF:-1 ,Cartoon Network
+https://delivery.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
+
+#EXTINF:-1 ,TNT
+https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+
+#EXTINF:-1 ,Paramount
+https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+#EXTINF:-1 ,Dicovery turbo
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
+
+#EXTINF:-1 ,HGTV
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
+
+#EXTINF:-1 ,Universal
+https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+
+#EXTINF:-1 ,Space
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+#EXTINF:-1 ,TCM
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1 ,AMC
+https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+
+#EXTINF:-1 ,HTV
+https://delivery.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
+
+#EXTINF:-1 ,MTV
+https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+
+#EXTINF:-1 ,CM
+https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
+
+#EXTINF:-1 ,Encuentro
+https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
