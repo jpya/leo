@@ -21,7 +21,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" , TV Publica
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
 
-#EXTINF:-1 , TyC Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" , TyC Sports
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC/SA_HLS/TyC.m3u8
 
 
@@ -40,7 +40,7 @@ https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" , A24
 https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
-#EXTINF:-1 ,Cronica
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" ,Cronica
 https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" ,Espn
