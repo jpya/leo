@@ -128,7 +128,50 @@ https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
 
 
-
+#EXTINF:-1,HBO SIGNATURE HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46163.ts
+#EXTINF:-1,I-SAT
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46166.ts
+#EXTINF:-1,I-SAT HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46167.ts
+#EXTINF:-1,MULTIPREMIER HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46168.ts
+#EXTINF:-1,MULTIPREMIER
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46169.ts
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46170.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46171.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46172.ts
+#EXTINF:-1,SONY MOVIES HD (DTV)
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46175.ts
+#EXTINF:-1,SONY CHANNEL HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46176.ts
+#EXTINF:-1,SONY CHANNEL
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46177.ts
+#EXTINF:-1,SPACE HD MX (DTV)
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46178.ts
+#EXTINF:-1,Space HD (DTV)
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46179.ts
+#EXTINF:-1,Space FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46180.ts
+#EXTINF:-1,STAR CHANNEL HD (DTV)
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46186.ts
+#EXTINF:-1,STAR CHANNEL HD ARG (DTV)
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46188.ts
+#EXTINF:-1,STAR CHANNEL HD MX (DTV)
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46189.ts
+#EXTINF:-1,STAR CLASSICS HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46195.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD (DTV)
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46217.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46218.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46219.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://weib-tv.com:80/patrigonzalez334455/123patri789/46220.ts
 
 
 
