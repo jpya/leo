@@ -48,18 +48,14 @@ http://weib-tv.com:80/patrigonzalez334455/123patri789/414720.ts
 http://weib-tv.com:80/patrigonzalez334455/123patri789/414717.ts
 #EXTINF:-1,DISNEY JR. FHD
 http://weib-tv.com:80/patrigonzalez334455/123patri789/414716.ts
-#EXTINF:-1,NICKJr. HD
-http://weib-tv.com:80/patrigonzalez334455/123patri789/414714.ts
-#EXTINF:-1,NICK Jr. FHD
-http://weib-tv.com:80/patrigonzalez334455/123patri789/414713.ts
+
 #EXTINF:-1,NICKELODEON FHD
 http://weib-tv.com:80/patrigonzalez334455/123patri789/414712.ts
-#EXTINF:-1,BOING  OP1
-http://weib-tv.com:80/patrigonzalez334455/123patri789/414711.ts
-#EXTINF:-1,BOING OP2
-http://weib-tv.com:80/patrigonzalez334455/123patri789/414710.ts
-#EXTINF:-1,BABY TV HD
-http://weib-tv.com:80/patrigonzalez334455/123patri789/414709.ts
+
+#EXTINF:-1,Cartoonito
+http://weib-tv.com:80/patrigonzalez334455/123patri789/11919.ts
+#EXTINF:-1,Cartoon Network HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/11920.ts
 
 
 
