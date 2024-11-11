@@ -51,7 +51,8 @@ http://weib-tv.com:80/patrigonzalez334455/123patri789/414716.ts
 
 #EXTINF:-1,NICKELODEON FHD
 http://weib-tv.com:80/patrigonzalez334455/123patri789/414712.ts
-
+#EXTINF:-1,PAKAPAKA
+http://weib-tv.com:80/patrigonzalez334455/123patri789/84574.ts
 #EXTINF:-1,Cartoonito
 http://weib-tv.com:80/patrigonzalez334455/123patri789/11919.ts
 #EXTINF:-1,Cartoon Network HD
