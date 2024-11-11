@@ -128,6 +128,165 @@ https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
 
 
+#EXTINF:-1,America TV HD OP1
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2075.ts
+#EXTINF:-1,America TV FHD OP2
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2076.ts
+#EXTINF:-1,Television Publica HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2077.ts
+#EXTINF:-1,Television Publica FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2078.ts
+#EXTINF:-1,El Nueve HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2079.ts
+#EXTINF:-1,El Nueve FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2080.ts
+#EXTINF:-1,Telefe HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2083.ts
+#EXTINF:-1,Telefe HD (E)
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2084.ts
+#EXTINF:-1,El trece HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2086.ts
+#EXTINF:-1,El trece HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2090.ts
+#EXTINF:-1,Cronica TV SD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2091.ts
+#EXTINF:-1,Cronica TV HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2092.ts
+#EXTINF:-1,TN HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2093.ts
+#EXTINF:-1,TN FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2094.ts
+#EXTINF:-1,26 TV HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2096.ts
+#EXTINF:-1,Volver SD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/2097.ts
+
+#EXTINF:-1,Disney Channel FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414723.ts
+#EXTINF:-1,DISNEY HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414722.ts
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414721.ts
+#EXTINF:-1,NICKELODEON HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414720.ts
+#EXTINF:-1,CLAN OP1
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414719.ts
+#EXTINF:-1,CLAN OP2
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414718.ts
+#EXTINF:-1,DISNEY Jr. HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414717.ts
+#EXTINF:-1,DISNEY JR. FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414716.ts
+#EXTINF:-1,NICKJr. HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414714.ts
+#EXTINF:-1,NICK Jr. FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414713.ts
+#EXTINF:-1,NICKELODEON FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414712.ts
+#EXTINF:-1,BOING  OP1
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414711.ts
+#EXTINF:-1,BOING OP2
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414710.ts
+#EXTINF:-1,BABY TV HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/414709.ts
+
+
+
+
+#EXTINF:-1,TNT SPORTS FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/19103.ts
+#EXTINF:-1,TYC SPORTS
+http://weib-tv.com:80/patrigonzalez334455/123patri789/23061.ts
+#EXTINF:-1,TYC SPORTS INTERNACIONAL
+http://weib-tv.com:80/patrigonzalez334455/123patri789/167451.ts
+#EXTINF:-1,ESPN DEPORTES
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591971.ts
+#EXTINF:-1,| ESPN 1 AR | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591974.ts
+#EXTINF:-1,| ESPN 1 ARG | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591975.ts
+#EXTINF:-1,| ESPN 1 CO | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591976.ts
+#EXTINF:-1,| ESPN 1 CH | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591977.ts
+#EXTINF:-1,| ESPN 1 MEX | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591978.ts
+#EXTINF:-1,| ESPN 1 MEX | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591979.ts
+#EXTINF:-1,| ESPN 2 ARG | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591980.ts
+#EXTINF:-1,| ESPN 2 ARG | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591981.ts
+#EXTINF:-1,| ESPN 2 CO |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591982.ts
+#EXTINF:-1,| ESPN 2 CH |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591983.ts
+#EXTINF:-1,| ESPN 2 MX | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591984.ts
+#EXTINF:-1,| ESPN 2 MX | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591985.ts
+#EXTINF:-1,| ESPN 3 AR | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591986.ts
+#EXTINF:-1,| ESPN 3 ARG | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591987.ts
+#EXTINF:-1,| ESPN 3 MEX | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591988.ts
+#EXTINF:-1,| ESPN 3 MX | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591989.ts
+#EXTINF:-1,| ESPN 4 SUR |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591990.ts
+#EXTINF:-1,| ESPN 4 CENTRO |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591991.ts
+#EXTINF:-1,| ESPN 4 MX |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591992.ts
+#EXTINF:-1,| ESPN 5 SUR |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591993.ts
+#EXTINF:-1,| ESPN 5 NORTE |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591994.ts
+#EXTINF:-1,| ESPN 6 |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591995.ts
+#EXTINF:-1,| ESPN 7 | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591996.ts
+#EXTINF:-1,| ESPN PREMIUM AR |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591997.ts
+#EXTINF:-1,| ESPN PREMIUM CH |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591998.ts
+#EXTINF:-1,| FOX DEPORTES |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/591999.ts
+#EXTINF:-1,| FOX SPORT AR |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592000.ts
+#EXTINF:-1,| FOX SPORT AR | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592001.ts
+#EXTINF:-1,| FOX SPORT 1 MX |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592002.ts
+#EXTINF:-1,| FOX SPORT 1 MX | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592003.ts
+#EXTINF:-1,| FOX SPORTS 2 AR |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592004.ts
+#EXTINF:-1,| FOX SPORT 2 ARG | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592005.ts
+#EXTINF:-1,| FOX SPORTS 2 MX |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592006.ts
+#EXTINF:-1,| FOX SPORTS 2 MX | FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592007.ts
+#EXTINF:-1,| FOX SPORTS 3 ARG | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592008.ts
+#EXTINF:-1,| FOX SPORTS 3 ARG | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592009.ts
+#EXTINF:-1,| FOX SPORT 3 MX | HD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592010.ts
+#EXTINF:-1,| FOX SPORTS 3 MX | FHD |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592011.ts
+#EXTINF:-1,| FOX SPORTS PREMIUM MX |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592012.ts
+#EXTINF:-1,| BEIN SPORTS Ñ |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592013.ts
+#EXTINF:-1,| BEIN SPORTS XTRA Ñ |
+http://weib-tv.com:80/patrigonzalez334455/123patri789/592014.ts
+
+
+
+
 #EXTINF:-1,HBO SIGNATURE HD
 http://weib-tv.com:80/patrigonzalez334455/123patri789/46163.ts
 #EXTINF:-1,I-SAT
