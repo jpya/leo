@@ -331,7 +331,66 @@ http://weib-tv.com:80/patrigonzalez334455/123patri789/46218.ts
 http://weib-tv.com:80/patrigonzalez334455/123patri789/46219.ts
 #EXTINF:-1,STUDIO UNIVERSAL
 http://weib-tv.com:80/patrigonzalez334455/123patri789/46220.ts
-
+#EXTINF:-1,AXN MOVIE HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327805.ts
+#EXTINF:-1,AXN MOVIES FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327806.ts
+#EXTINF:-1,AXN HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327808.ts
+#EXTINF:-1,AXN FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327809.ts
+#EXTINF:-1,CALLE 13 HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327811.ts
+#EXTINF:-1,CALLE 13 FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327812.ts
+#EXTINF:-1,WARNER TV HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327813.ts
+#EXTINF:-1,WARNER TV FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327815.ts
+#EXTINF:-1,TCM HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327816.ts
+#EXTINF:-1,TCM FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327817.ts
+#EXTINF:-1,FOX HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327818.ts
+#EXTINF:-1,FOX FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327820.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327814.ts
+#EXTINF:-1,HOLLYWOOD FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327821.ts
+#EXTINF:-1,DREAMWORKS HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327822.ts
+#EXTINF:-1,DREAMWORKS FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327824.ts
+#EXTINF:-1,BOM CINE
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327826.ts
+#EXTINF:-1,BOM CINE FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327827.ts
+#EXTINF:-1,COSMOS HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327829.ts
+#EXTINF:-1,COSMO FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327830.ts
+#EXTINF:-1,SYFY HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327831.ts
+#EXTINF:-1,SYFY FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327832.ts
+#EXTINF:-1,AMC SD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327833.ts
+#EXTINF:-1,AMC HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327835.ts
+#EXTINF:-1,AMC FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327836.ts
+#EXTINF:-1,AMC BREAK HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327837.ts
+#EXTINF:-1,AMC BREAK FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327838.ts
+#EXTINF:-1,AMC CRIME SD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327839.ts
+#EXTINF:-1,AMC  CRIME FHD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327834.ts
+#EXTINF:-1,DARK HD
+http://weib-tv.com:80/patrigonzalez334455/123patri789/327819.ts
 
 
 
