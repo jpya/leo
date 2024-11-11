@@ -43,10 +43,7 @@ http://weib-tv.com:80/patrigonzalez334455/123patri789/414722.ts
 http://weib-tv.com:80/patrigonzalez334455/123patri789/414721.ts
 #EXTINF:-1,NICKELODEON HD
 http://weib-tv.com:80/patrigonzalez334455/123patri789/414720.ts
-#EXTINF:-1,CLAN OP1
-http://weib-tv.com:80/patrigonzalez334455/123patri789/414719.ts
-#EXTINF:-1,CLAN OP2
-http://weib-tv.com:80/patrigonzalez334455/123patri789/414718.ts
+
 #EXTINF:-1,DISNEY Jr. HD
 http://weib-tv.com:80/patrigonzalez334455/123patri789/414717.ts
 #EXTINF:-1,DISNEY JR. FHD
