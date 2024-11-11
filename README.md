@@ -56,7 +56,8 @@ http://weib-tv.com:80/patrigonzalez334455/123patri789/414712.ts
 http://weib-tv.com:80/patrigonzalez334455/123patri789/11919.ts
 #EXTINF:-1,Cartoon Network HD
 http://weib-tv.com:80/patrigonzalez334455/123patri789/11920.ts
-
+#EXTINF:-1,Nick Jr
+http://weib-tv.com:80/patrigonzalez334455/123patri789/11938.ts
 
 
 
