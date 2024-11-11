@@ -397,11 +397,11 @@ https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
 #EXTINF:-1 ,Encuentro
 https://delivery.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
 
+#EXTINF:-1 ,TNT Series
+https://router.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
-
-
-
-
+EXTINF:-1 ,TNT Toonast
+https://router.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 
 
