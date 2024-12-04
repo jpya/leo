@@ -9,8 +9,8 @@
 
 
 
-#EXTINF:-1  , TELEFE 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+#EXTINF:-1  , telefe 
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/telefe/SA_HLS/telefe.m3u8
 
 #EXTINF:-1  , TELEFE 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
